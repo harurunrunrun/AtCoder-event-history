@@ -1,4 +1,4 @@
-更新しなかったので
+更新しなかったのでclose
 
 # AtCoder-event-history β版
 
